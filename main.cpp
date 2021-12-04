@@ -10,8 +10,8 @@ void vampgame::MainMenu(){
   vampgame run; //calling the Game.cpp file to start game
 
   cout <<"\n\n---------------MAIN MENU---------------------\n";
-  cout <<"\n1- play game.\n";
-  cout <<"2- Timestamp.\n";
+  cout <<"\n1- Play game.\n";
+  cout <<"2- User's scores.\n";
   cout <<"3- Exit.\n";
   cout << "\nENTER YOUR CHOICE HERE (1-3):  ";
   cin >> choice;
